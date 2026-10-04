@@ -1,6 +1,6 @@
 # About me
 
-I like exploring ideas and building things I find useful. This is where I keep some of those projects.
+I prefer understanding things to being impressed by them. Some of what I build ends up here.
 
 A few projects:
 
