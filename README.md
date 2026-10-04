@@ -1,13 +1,17 @@
-# Burak
+# About me
 
-I build tools for working with data and automating repetitive tasks. Mostly Python and C#, with some Swift.
+I like exploring ideas and building things I find useful. This is where I keep some of those projects.
 
 A few projects:
 
-- [NavScope](https://github.com/buraklncc/navscope) — mutual-fund data analysis and Excel reports.
-- [PolicyForge](https://github.com/buraklncc/policyforge) — turning spreadsheet records into PDF documents.
-- [Freight Ledger](https://github.com/buraklncc/freight-ledger) — shipment, invoice and document models in C#.
-- [MarketLab](https://github.com/buraklncc/marketlab) — offline strategy testing and position sizing.
-- [Mnemosyne Core](https://github.com/buraklncc/mnemosyne-core) — a spaced-repetition scheduler in Swift.
+[NavScope](https://github.com/buraklncc/navscope): mutual fund data analysis and Excel reports.
 
-These are cleaned-up versions of earlier personal projects. Their READMEs include the original start dates, setup instructions and examples.
+[PolicyForge](https://github.com/buraklncc/policyforge): turning spreadsheet records into PDF documents.
+
+[Freight Ledger](https://github.com/buraklncc/freight-ledger): shipment, invoice and document models in C#.
+
+[MarketLab](https://github.com/buraklncc/marketlab): offline strategy testing and position sizing.
+
+[Mnemosyne Core](https://github.com/buraklncc/mnemosyne-core): a spaced repetition scheduler in Swift.
+
+These are cleaned versions of earlier personal projects. Their READMEs include the original start dates, setup instructions and examples.
